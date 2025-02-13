@@ -55,7 +55,7 @@ export default {
 10. npm run build [creates a dist file].
 11. Upload the dist file on Netlify.
 
-The deploy link is https://behance-clone-kingstar.netlify.app/
+The deploy link is https://sarthak-behance-clone.netlify.app/
 
 Save this content as `README.md` in the root directory of your project. This file will provide a comprehensive guide for anyone who wants to understand, set up, and run your Behance clone project.
 
